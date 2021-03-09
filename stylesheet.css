@@ -1,0 +1,67 @@
+body{
+	background-color: #f4e1e6;
+	color: #656565;
+	font-family: 'Trebuchet MS', sans-serif;
+	padding-bottom: 1%;
+}
+
+header{
+	
+}
+
+nav{
+	background-color: #656565;
+	position: fixed;
+	top: 0;
+	left: 0;
+	color: #9DACFF;
+	width: 100%;
+	text-align:right;
+	margin-bottom: 1%;
+}
+
+
+article{
+}
+
+aside{
+}
+
+a{
+	color: #D1FFD7;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-decoration: none;
+
+}
+
+a:hover{
+	background-color: #C1C1C1;
+}
+
+a.current{
+	background-color: #C1C1C1;
+
+}
+
+figure{
+}
+
+figcaption{
+}
+
+ul{
+}
+
+h1{
+	color: #9dacff;
+	text-decoration: bold;
+	text-align: left;
+	text-size: 60px;
+	padding-left: 5%;
+}
+
+h2{
+}
